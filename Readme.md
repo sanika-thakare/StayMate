@@ -67,3 +67,21 @@ REST API
 Node.js + Express.js
       ↓
 MySQL Database
+
+### 📸 Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Properties
+
+![Properties](screenshots/properties.png)
+
+### Property Details
+
+![Property Details](screenshots/property-details.png)
+
+### Owner Dashboard
+
+![Owner Dashboard](screenshots/dashboard.png)
